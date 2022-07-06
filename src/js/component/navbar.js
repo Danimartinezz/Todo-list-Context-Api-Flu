@@ -15,3 +15,5 @@ export const Navbar = () => {
 		</nav>
 	);
 };
+
+
